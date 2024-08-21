@@ -1,4 +1,10 @@
 <div id="header" align="center">
+  
+  ### Hi there, I'm Jędrzej
+
+  ###### I'm a Software Development student exploring various fields in tech. <br />While my experience is mostly in Web Development, I'm currently on a journey to discover what truly excites me
+  ---
+  
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd291ZzNqODFqdGFlNWRydjcxbWV5cWxqa21pN3ByYWI3bXZyeWliMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/jedrzej-kusnierz/">
