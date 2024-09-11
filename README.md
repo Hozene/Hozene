@@ -14,6 +14,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
     </a> -->
   </div>
+  <img src="https://komarev.com/ghpvc/?username=Hozene&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
@@ -22,7 +23,7 @@
   - Building and optimizing responsive websites
   - Exploring new technologies to improve web performance
   - Learning how to sail on open seas
-  - Running Tabletop Role-Playing Games as a Game Master, honing my leadership and creative problem-solving skills
+  - Running Tabletop Role-Playing Games as a Game Master
 
   ###### Through my interests, I continuously develop skills in leadership, problem-solving, and creativity <br> —whether I'm optimizing websites or crafting immersive game experiences.
 
