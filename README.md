@@ -41,7 +41,8 @@
   <br/>
   <img src="images/express.png" title="Express" alt="Express" width="60" height="60"/>&nbsp;
   <img src="images/flask.png" title="Flask" **alt="Flask" width="55" height="55"/>&nbsp;
-  <img src="images/dot-net.png" title="Dot-Net" **alt="Dot-Net" width="60" height="60"/>
+  <img src="images/dot-net.png" title="Dot-Net" **alt="Dot-Net" width="60" height="60"/>&nbsp;
+  <img src="images/mysql.png" title="MySQL" alt="MySQL" width="63" height="63"/>
 </div>
 
   #
