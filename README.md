@@ -22,7 +22,7 @@
   ### :bulb: Interests :
   - Building and optimizing responsive websites
   - Exploring new technologies to improve web performance
-  - Learning how to sail on open seas
+  - Sailing on larger bodies of water
   - Running Tabletop Role-Playing Games as a Game Master
 
   ###### Through my interests, I continuously develop skills in leadership, problem-solving, and creativity <br> —whether I'm optimizing websites or crafting immersive game experiences.
@@ -48,5 +48,5 @@
   #
 
   ### :seedling: Currently working on :
-  - Developing a personal project to **mirror iPad screen to a Windows** PC using cross-platform tools. (***Oh-Hold***)
-  - **Sentiment Analysis** project using VADER and neural networks to classify movie reviews.
+  - <del>**Sentiment Analysis** project using VADER and neural networks to classify movie reviews.</del>
+  - **Engineering Thesis** still figuring out the problem the thesis will address
